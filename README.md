@@ -1,14 +1,14 @@
 Creditos:
 Feito pelo amigo Thiago.
 
-# README
+# R E A D M E
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version (linguagem)
 
 * System dependencies
 
