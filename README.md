@@ -1,3 +1,4 @@
+Creditos:
 Feito pelo amigo Thiago.
 
 # README
